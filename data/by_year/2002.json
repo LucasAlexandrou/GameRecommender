@@ -1,0 +1,39 @@
+{
+    "40990": {
+        "name": "Mafia",
+        "release_date": "Aug 28, 2002",
+        "price": 14.99,
+        "metacritic_score": 88,
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": {
+            "Action": 150,
+            "Classic": 134,
+            "Story Rich": 131,
+            "Open World": 123,
+            "Crime": 122,
+            "Atmospheric": 97,
+            "Singleplayer": 96,
+            "Third Person": 83,
+            "Great Soundtrack": 82,
+            "Adventure": 80,
+            "Violent": 72,
+            "Third-Person Shooter": 46,
+            "Difficult": 35,
+            "Shooter": 34,
+            "Racing": 31,
+            "Cult Classic": 16,
+            "Historical": 14,
+            "Drama": 14,
+            "Controller": 11,
+            "Simulation": 7
+        },
+        "positive": 6124,
+        "negative": 701
+    }
+}

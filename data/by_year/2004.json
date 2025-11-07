@@ -1,0 +1,278 @@
+{
+    "80": {
+        "name": "Counter-Strike: Condition Zero",
+        "release_date": "Mar 1, 2004",
+        "price": 9.99,
+        "metacritic_score": 65,
+        "genres": [
+            "Action"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player",
+            "Valve Anti-Cheat enabled"
+        ],
+        "tags": {
+            "Action": 1364,
+            "FPS": 1016,
+            "Shooter": 754,
+            "Multiplayer": 610,
+            "First-Person": 465,
+            "Singleplayer": 398,
+            "Classic": 395,
+            "Tactical": 373,
+            "Team-Based": 317,
+            "Competitive": 305,
+            "Military": 178,
+            "Strategy": 177,
+            "Online Co-Op": 176,
+            "Adventure": 89,
+            "Survival": 71,
+            "Atmospheric": 62,
+            "Open World": 45,
+            "Old School": 45,
+            "Simulation": 40,
+            "Dark": 40
+        },
+        "positive": 19314,
+        "negative": 1871
+    },
+    "13230": {
+        "name": "Unreal Tournament 2004: Editor's Choice Edition",
+        "release_date": "Mar 17, 2004",
+        "price": 14.99,
+        "metacritic_score": 93,
+        "genres": [
+            "Action"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player",
+            "Steam Trading Cards"
+        ],
+        "tags": {
+            "FPS": 223,
+            "Arena Shooter": 176,
+            "Action": 162,
+            "Classic": 156,
+            "Multiplayer": 155,
+            "Fast-Paced": 120,
+            "Sci-fi": 94,
+            "Competitive": 89,
+            "First-Person": 85,
+            "Moddable": 83,
+            "Shooter": 81,
+            "Great Soundtrack": 79,
+            "Singleplayer": 58,
+            "e-sports": 31,
+            "Atmospheric": 25,
+            "Gore": 16,
+            "Co-op": 15,
+            "Epic": 15,
+            "Old School": 12,
+            "Adventure": 9
+        },
+        "positive": 3359,
+        "negative": 84
+    },
+    "240": {
+        "name": "Counter-Strike: Source",
+        "release_date": "Nov 1, 2004",
+        "price": 9.99,
+        "metacritic_score": 88,
+        "genres": [
+            "Action"
+        ],
+        "categories": [
+            "Multi-player",
+            "Cross-Platform Multiplayer",
+            "Steam Achievements",
+            "Steam Cloud",
+            "Valve Anti-Cheat enabled",
+            "Stats",
+            "Includes Source SDK"
+        ],
+        "tags": {
+            "Shooter": 5250,
+            "Action": 3145,
+            "FPS": 3116,
+            "Multiplayer": 2488,
+            "Team-Based": 1668,
+            "First-Person": 1464,
+            "Tactical": 1322,
+            "Competitive": 1313,
+            "PvP": 1009,
+            "e-sports": 929,
+            "Military": 744,
+            "War": 639,
+            "Strategy": 511,
+            "Moddable": 492,
+            "Singleplayer": 389,
+            "Difficult": 383,
+            "Atmospheric": 298,
+            "Survival": 281,
+            "Simulation": 243,
+            "Sandbox": 201
+        },
+        "positive": 135151,
+        "negative": 5348
+    },
+    "220": {
+        "name": "Half-Life 2",
+        "release_date": "Nov 16, 2004",
+        "price": 9.99,
+        "metacritic_score": 96,
+        "genres": [
+            "Action"
+        ],
+        "categories": [
+            "Single-player",
+            "Steam Achievements",
+            "Steam Trading Cards",
+            "Captions available",
+            "Partial Controller Support",
+            "Steam Cloud",
+            "Includes Source SDK",
+            "Remote Play on Phone",
+            "Remote Play on Tablet",
+            "Remote Play Together"
+        ],
+        "tags": {
+            "FPS": 3917,
+            "Action": 2790,
+            "Sci-fi": 2434,
+            "Classic": 2221,
+            "Singleplayer": 2160,
+            "Story Rich": 1861,
+            "Shooter": 1678,
+            "First-Person": 1566,
+            "Adventure": 1340,
+            "Dystopian ": 1179,
+            "Atmospheric": 1098,
+            "Zombies": 1002,
+            "Silent Protagonist": 988,
+            "Physics": 953,
+            "Aliens": 923,
+            "Great Soundtrack": 908,
+            "Horror": 737,
+            "Puzzle": 708,
+            "Multiplayer": 653,
+            "Moddable": 494
+        },
+        "positive": 142368,
+        "negative": 3687
+    },
+    "100": {
+        "name": "Counter-Strike: Condition Zero",
+        "release_date": "Mar 1, 2004",
+        "price": 9.99,
+        "metacritic_score": 65,
+        "genres": [
+            "Action"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player",
+            "Valve Anti-Cheat enabled"
+        ],
+        "tags": {
+            "Action": 1339,
+            "FPS": 979,
+            "Shooter": 723,
+            "Multiplayer": 582,
+            "First-Person": 435,
+            "Classic": 379,
+            "Singleplayer": 360,
+            "Tactical": 355,
+            "Team-Based": 303,
+            "Competitive": 288,
+            "Strategy": 173,
+            "Online Co-Op": 162,
+            "Military": 151,
+            "Masterpiece": 87,
+            "Adventure": 83,
+            "Survival": 73,
+            "Atmospheric": 56,
+            "Open World": 51,
+            "Simulation": 38,
+            "Dark": 38
+        },
+        "positive": 13442,
+        "negative": 1535
+    },
+    "320": {
+        "name": "Half-Life 2: Deathmatch",
+        "release_date": "Nov 1, 2004",
+        "price": 4.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Action"
+        ],
+        "categories": [
+            "Multi-player",
+            "Valve Anti-Cheat enabled",
+            "Includes Source SDK"
+        ],
+        "tags": {
+            "Action": 866,
+            "FPS": 482,
+            "Multiplayer": 408,
+            "Shooter": 260,
+            "First-Person": 241,
+            "Sci-fi": 182,
+            "Physics": 177,
+            "Competitive": 140,
+            "Funny": 106,
+            "Co-op": 94,
+            "Old School": 87,
+            "PvP": 64,
+            "Arena Shooter": 48,
+            "Moddable": 41,
+            "Atmospheric": 40,
+            "Adventure": 31,
+            "Great Soundtrack": 23,
+            "Singleplayer": 18,
+            "Online Co-Op": 10,
+            "Mod": 10
+        },
+        "positive": 9737,
+        "negative": 1051
+    },
+    "280": {
+        "name": "Half-Life: Source",
+        "release_date": "Jun 1, 2004",
+        "price": 9.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Action"
+        ],
+        "categories": [
+            "Single-player",
+            "Remote Play Together"
+        ],
+        "tags": {
+            "FPS": 382,
+            "Action": 286,
+            "Classic": 226,
+            "Sci-fi": 208,
+            "Singleplayer": 193,
+            "Shooter": 174,
+            "First-Person": 173,
+            "Aliens": 145,
+            "1990's": 118,
+            "Zombies": 116,
+            "Story Rich": 114,
+            "Adventure": 95,
+            "Remake": 87,
+            "Atmospheric": 82,
+            "Silent Protagonist": 59,
+            "Multiplayer": 56,
+            "Horror": 55,
+            "Moddable": 44,
+            "Great Soundtrack": 43,
+            "Gore": 18
+        },
+        "positive": 8232,
+        "negative": 3130
+    }
+}

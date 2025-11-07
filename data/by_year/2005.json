@@ -1,0 +1,237 @@
+{
+    "3920": {
+        "name": "Sid Meier's Pirates!",
+        "release_date": "Jul 11, 2005",
+        "price": 9.99,
+        "metacritic_score": 88,
+        "genres": [
+            "RPG"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": {
+            "Pirates": 283,
+            "Open World": 181,
+            "RPG": 153,
+            "Adventure": 132,
+            "Singleplayer": 131,
+            "Naval": 123,
+            "Sandbox": 94,
+            "Sailing": 93,
+            "Historical": 89,
+            "Strategy": 87,
+            "Classic": 73,
+            "Economy": 68,
+            "Remake": 65,
+            "Action": 57,
+            "Exploration": 56,
+            "Trading": 41,
+            "Naval Combat": 37,
+            "Choose Your Own Adventure": 27,
+            "Fighting": 16,
+            "Atmospheric": 15
+        },
+        "positive": 5009,
+        "negative": 305
+    },
+    "39510": {
+        "name": "Gothic II: Gold Edition",
+        "release_date": "Nov 29, 2005",
+        "price": 9.99,
+        "metacritic_score": 79,
+        "genres": [
+            "Action",
+            "RPG"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": {
+            "RPG": 461,
+            "Classic": 328,
+            "Open World": 276,
+            "Atmospheric": 225,
+            "Singleplayer": 202,
+            "Gothic": 190,
+            "Fantasy": 171,
+            "Story Rich": 158,
+            "Dark Fantasy": 155,
+            "Action": 153,
+            "Third Person": 147,
+            "Medieval": 144,
+            "Replay Value": 120,
+            "Adventure": 109,
+            "Great Soundtrack": 102,
+            "Dragons": 99,
+            "Difficult": 98,
+            "Action RPG": 93,
+            "Magic": 90,
+            "Nostalgia": 51
+        },
+        "positive": 9334,
+        "negative": 753
+    },
+    "39200": {
+        "name": "Dungeon Siege II",
+        "release_date": "Aug 16, 2005",
+        "price": 6.99,
+        "metacritic_score": 80,
+        "genres": [
+            "RPG"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": {
+            "RPG": 142,
+            "Fantasy": 71,
+            "Action RPG": 66,
+            "Hack and Slash": 63,
+            "Singleplayer": 52,
+            "Adventure": 44,
+            "Classic": 37,
+            "Party-Based RPG": 36,
+            "Action": 33,
+            "Co-op": 32,
+            "Isometric": 23,
+            "Real-Time with Pause": 19,
+            "Dungeon Crawler": 17,
+            "Multiplayer": 17,
+            "Loot": 13
+        },
+        "positive": 1505,
+        "negative": 555
+    },
+    "1002": {
+        "name": "Rag Doll Kung Fu",
+        "release_date": "Oct 12, 2005",
+        "price": 0.99,
+        "metacritic_score": 69,
+        "genres": [
+            "Indie"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player"
+        ],
+        "tags": {
+            "2D Fighter": 45,
+            "Martial Arts": 39,
+            "Multiplayer": 30,
+            "Intentionally Awkward Controls": 29,
+            "Indie": 28,
+            "Physics": 28,
+            "Fighting": 27,
+            "Singleplayer": 27,
+            "Action": 26,
+            "2D": 18
+        },
+        "positive": 55,
+        "negative": 23
+    },
+    "1500": {
+        "name": "Darwinia",
+        "release_date": "Jul 14, 2005",
+        "price": 9.99,
+        "metacritic_score": 84,
+        "genres": [
+            "Indie",
+            "Strategy"
+        ],
+        "categories": [
+            "Single-player",
+            "Full controller support",
+            "Steam Cloud",
+            "Includes level editor"
+        ],
+        "tags": {
+            "Retro": 261,
+            "Atmospheric": 255,
+            "Strategy": 251,
+            "RTS": 248,
+            "Stylized": 245,
+            "Singleplayer": 237,
+            "Story Rich": 231,
+            "Action": 225,
+            "Old School": 217,
+            "Pixel Graphics": 208,
+            "3D": 198,
+            "Sci-fi": 189,
+            "God Game": 184,
+            "Arcade": 181,
+            "Abstract": 179,
+            "Colorful": 170,
+            "1980s": 167,
+            "Artificial Intelligence": 165,
+            "Emotional": 148,
+            "Combat": 135
+        },
+        "positive": 726,
+        "negative": 198
+    },
+    "340": {
+        "name": "Half-Life 2: Lost Coast",
+        "release_date": "Oct 27, 2005",
+        "price": 0.0,
+        "metacritic_score": 0,
+        "genres": [
+            "Action"
+        ],
+        "categories": [
+            "Single-player",
+            "Commentary available",
+            "Remote Play Together"
+        ],
+        "tags": {
+            "FPS": 1022,
+            "Action": 359,
+            "Singleplayer": 307,
+            "First-Person": 250,
+            "Sci-fi": 245,
+            "Shooter": 221,
+            "Short": 217,
+            "Aliens": 118,
+            "Dystopian ": 112,
+            "Classic": 108,
+            "Adventure": 104,
+            "Atmospheric": 91,
+            "Benchmark": 91,
+            "Futuristic": 88,
+            "Silent Protagonist": 83,
+            "Free to Play": 57,
+            "Multiplayer": 40,
+            "Post-apocalyptic": 39,
+            "Story Rich": 38,
+            "Great Soundtrack": 33
+        },
+        "positive": 9306,
+        "negative": 1261
+    },
+    "200990": {
+        "name": "Geneforge 3",
+        "release_date": "Apr 1, 2005",
+        "price": 19.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Strategy",
+            "RPG",
+            "Indie"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": {
+            "RPG": 37,
+            "Indie": 28,
+            "Strategy": 22,
+            "Turn-Based Combat": 10,
+            "Isometric": 9,
+            "Turn-Based": 7,
+            "Old School": 5,
+            "Creature Collector": 5
+        },
+        "positive": 42,
+        "negative": 4
+    }
+}

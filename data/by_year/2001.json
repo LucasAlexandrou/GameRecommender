@@ -1,0 +1,144 @@
+{
+    "200960": {
+        "name": "Geneforge 1",
+        "release_date": "Dec 1, 2001",
+        "price": 19.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Strategy",
+            "RPG",
+            "Indie"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": {
+            "RPG": 74,
+            "Indie": 55,
+            "Isometric": 39,
+            "Strategy": 37,
+            "Turn-Based Combat": 29,
+            "Fantasy": 28,
+            "Turn-Based": 27,
+            "Old School": 24,
+            "Story Rich": 22,
+            "Singleplayer": 20,
+            "CRPG": 10,
+            "Creature Collector": 7,
+            "Classic": 6
+        },
+        "positive": 335,
+        "negative": 25
+    },
+    "65540": {
+        "name": "Gothic 1",
+        "release_date": "Mar 15, 2001",
+        "price": 9.99,
+        "metacritic_score": 81,
+        "genres": [
+            "Action",
+            "RPG"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": {
+            "RPG": 514,
+            "Open World": 336,
+            "Classic": 312,
+            "Atmospheric": 309,
+            "Singleplayer": 239,
+            "Fantasy": 228,
+            "Gothic": 215,
+            "Third Person": 172,
+            "Action": 170,
+            "Medieval": 153,
+            "Story Rich": 138,
+            "Adventure": 136,
+            "Dark Fantasy": 133,
+            "Magic": 107,
+            "Great Soundtrack": 100,
+            "Action RPG": 89,
+            "Retro": 74,
+            "Difficult": 73,
+            "Choices Matter": 56,
+            "Nostalgia": 39
+        },
+        "positive": 9119,
+        "negative": 807
+    },
+    "40": {
+        "name": "Deathmatch Classic",
+        "release_date": "Jun 1, 2001",
+        "price": 4.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Action"
+        ],
+        "categories": [
+            "Multi-player",
+            "PvP",
+            "Online PvP",
+            "Shared/Split Screen PvP",
+            "Valve Anti-Cheat enabled",
+            "Remote Play Together"
+        ],
+        "tags": {
+            "Action": 631,
+            "FPS": 142,
+            "Classic": 109,
+            "Multiplayer": 98,
+            "Shooter": 95,
+            "First-Person": 71,
+            "Arena Shooter": 47,
+            "Old School": 34,
+            "Sci-fi": 34,
+            "Competitive": 25,
+            "Fast-Paced": 17,
+            "Retro": 15,
+            "Gore": 15,
+            "Co-op": 14,
+            "Difficult": 13,
+            "1990's": 9
+        },
+        "positive": 1929,
+        "negative": 428
+    },
+    "130": {
+        "name": "Half-Life: Blue Shift",
+        "release_date": "Jun 1, 2001",
+        "price": 4.99,
+        "metacritic_score": 71,
+        "genres": [
+            "Action"
+        ],
+        "categories": [
+            "Single-player",
+            "Remote Play Together"
+        ],
+        "tags": {
+            "FPS": 464,
+            "Action": 290,
+            "Sci-fi": 220,
+            "Singleplayer": 199,
+            "Shooter": 179,
+            "Aliens": 157,
+            "Classic": 146,
+            "First-Person": 144,
+            "Zombies": 96,
+            "Adventure": 93,
+            "1990's": 83,
+            "Short": 80,
+            "Atmospheric": 74,
+            "Silent Protagonist": 55,
+            "Story Rich": 51,
+            "Puzzle": 26,
+            "Great Soundtrack": 25,
+            "Moddable": 25,
+            "Retro": 23,
+            "Old School": 14
+        },
+        "positive": 10256,
+        "negative": 965
+    }
+}

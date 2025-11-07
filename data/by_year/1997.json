@@ -1,0 +1,75 @@
+{
+    "232770": {
+        "name": "POSTAL",
+        "release_date": "Nov 14, 1997",
+        "price": 0.0,
+        "metacritic_score": 56,
+        "genres": [
+            "Action",
+            "Indie"
+        ],
+        "categories": [
+            "Single-player",
+            "Steam Achievements",
+            "Full controller support",
+            "Steam Trading Cards"
+        ],
+        "tags": {
+            "Horror": 297,
+            "Twin Stick Shooter": 284,
+            "Top-Down Shooter": 281,
+            "Villain Protagonist": 274,
+            "Difficult": 273,
+            "Shooter": 271,
+            "Isometric": 264,
+            "Psychological Horror": 259,
+            "Top-Down": 253,
+            "Dark Humor": 252,
+            "Dark Comedy": 246,
+            "Surreal": 242,
+            "Action": 232,
+            "Linear": 230,
+            "Hand-drawn": 224,
+            "Level Editor": 222,
+            "Psychological": 220,
+            "Atmospheric": 219,
+            "Comedy": 211,
+            "1990's": 208
+        },
+        "positive": 4806,
+        "negative": 724
+    },
+    "282010": {
+        "name": "Carmageddon Max Pack",
+        "release_date": "Jun 30, 1997",
+        "price": 9.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Action",
+            "Indie",
+            "Racing"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player",
+            "Steam Trading Cards"
+        ],
+        "tags": {
+            "Combat Racing": 66,
+            "Racing": 56,
+            "Action": 41,
+            "Classic": 29,
+            "Indie": 25,
+            "Gore": 24,
+            "1990's": 15,
+            "Retro": 11,
+            "Vehicular Combat": 10,
+            "Great Soundtrack": 9,
+            "Multiplayer": 9,
+            "Singleplayer": 8,
+            "Arcade": 6
+        },
+        "positive": 606,
+        "negative": 80
+    }
+}

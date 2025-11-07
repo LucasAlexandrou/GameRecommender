@@ -1,0 +1,46 @@
+{
+    "70": {
+        "name": "Half-Life",
+        "release_date": "Nov 8, 1998",
+        "price": 9.99,
+        "metacritic_score": 96,
+        "genres": [
+            "Action"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player",
+            "PvP",
+            "Online PvP",
+            "Steam Cloud",
+            "Valve Anti-Cheat enabled",
+            "Remote Play on Phone",
+            "Remote Play on Tablet",
+            "Remote Play Together"
+        ],
+        "tags": {
+            "FPS": 2259,
+            "Singleplayer": 1785,
+            "Sci-fi": 1785,
+            "Multiplayer": 1783,
+            "1990's": 1778,
+            "Action": 1777,
+            "Classic": 1770,
+            "Shooter": 1769,
+            "First-Person": 1762,
+            "Aliens": 1757,
+            "Silent Protagonist": 1754,
+            "Story Rich": 1754,
+            "Atmospheric": 1743,
+            "Moddable": 1739,
+            "Adventure": 1737,
+            "Action-Adventure": 1726,
+            "Gore": 1722,
+            "Retro": 1720,
+            "Difficult": 1707,
+            "PvP": 1700
+        },
+        "positive": 73346,
+        "negative": 2619
+    }
+}

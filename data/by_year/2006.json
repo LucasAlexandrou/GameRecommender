@@ -1,0 +1,1972 @@
+{
+    "3010": {
+        "name": "Xpand Rally",
+        "release_date": "Aug 24, 2006",
+        "price": 4.99,
+        "metacritic_score": 82,
+        "genres": [
+            "Racing"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player"
+        ],
+        "tags": {
+            "Racing": 40,
+            "Driving": 31,
+            "Automobile Sim": 27,
+            "Physics": 26,
+            "3D": 26,
+            "Economy": 24,
+            "Multiplayer": 12,
+            "Singleplayer": 6,
+            "Offroad": 6
+        },
+        "positive": 293,
+        "negative": 73
+    },
+    "4000": {
+        "name": "Garry's Mod",
+        "release_date": "Nov 29, 2006",
+        "price": 9.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Indie",
+            "Simulation"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player",
+            "PvP",
+            "Online PvP",
+            "LAN PvP",
+            "Co-op",
+            "Online Co-op",
+            "LAN Co-op",
+            "Cross-Platform Multiplayer",
+            "Steam Achievements",
+            "Steam Trading Cards",
+            "Captions available",
+            "Steam Workshop",
+            "Steam Cloud",
+            "Valve Anti-Cheat enabled",
+            "Includes level editor",
+            "Remote Play on Tablet"
+        ],
+        "tags": {
+            "Sandbox": 17471,
+            "Multiplayer": 13586,
+            "Funny": 12125,
+            "Moddable": 9742,
+            "Building": 9518,
+            "Comedy": 8219,
+            "Co-op": 8113,
+            "Mod": 8089,
+            "First-Person": 7854,
+            "Physics": 6774,
+            "Simulation": 6593,
+            "Online Co-Op": 6422,
+            "FPS": 6073,
+            "Singleplayer": 5994,
+            "Action": 5466,
+            "Animation & Modeling": 5288,
+            "Shooter": 5287,
+            "Indie": 4939,
+            "Massively Multiplayer": 4605,
+            "Adventure": 4601
+        },
+        "positive": 822326,
+        "negative": 29004
+    },
+    "6200": {
+        "name": "Ghost Master®",
+        "release_date": "Dec 21, 2006",
+        "price": 4.99,
+        "metacritic_score": 81,
+        "genres": [
+            "Strategy"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": {
+            "Strategy": 114,
+            "Comedy": 75,
+            "Puzzle": 56,
+            "Simulation": 51,
+            "Classic": 45,
+            "Funny": 41,
+            "Singleplayer": 40,
+            "Horror": 39,
+            "Tactical": 29,
+            "Sandbox": 22,
+            "Villain Protagonist": 15,
+            "Supernatural": 14,
+            "Great Soundtrack": 13,
+            "Management": 5
+        },
+        "positive": 1429,
+        "negative": 177
+    },
+    "3330": {
+        "name": "Zuma Deluxe",
+        "release_date": "Aug 30, 2006",
+        "price": 4.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Casual"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": {
+            "Match 3": 148,
+            "Puzzle": 141,
+            "Arcade": 138,
+            "Strategy": 133,
+            "2D": 129,
+            "Cute": 123,
+            "Funny": 121,
+            "Casual": 114,
+            "Colorful": 84,
+            "Family Friendly": 75,
+            "Physics": 67,
+            "Retro": 67,
+            "Singleplayer": 60,
+            "Indie": 58,
+            "Replay Value": 57,
+            "Classic": 54,
+            "Difficult": 41,
+            "Action": 37,
+            "Addictive": 31,
+            "Psychological Horror": 30
+        },
+        "positive": 2330,
+        "negative": 129
+    },
+    "1600": {
+        "name": "Dangerous Waters",
+        "release_date": "Feb 7, 2006",
+        "price": 2.99,
+        "metacritic_score": 82,
+        "genres": [
+            "Strategy"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player"
+        ],
+        "tags": {
+            "Strategy": 38,
+            "Naval Combat": 30,
+            "Simulation": 23,
+            "Naval": 19,
+            "Submarine": 10,
+            "Multiplayer": 9,
+            "Military": 7,
+            "Singleplayer": 5
+        },
+        "positive": 242,
+        "negative": 72
+    },
+    "1900": {
+        "name": "Earth 2160",
+        "release_date": "Apr 1, 2006",
+        "price": 1.49,
+        "metacritic_score": 73,
+        "genres": [
+            "Strategy"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player",
+            "Co-op",
+            "Cross-Platform Multiplayer",
+            "Steam Trading Cards"
+        ],
+        "tags": {
+            "Base-Building": 959,
+            "Space": 953,
+            "RTS": 949,
+            "Real-Time": 948,
+            "Action RPG": 940,
+            "Strategy": 936,
+            "Post-apocalyptic": 124,
+            "Historical": 120,
+            "Action": 118,
+            "Simulation": 117,
+            "Pixel Graphics": 110,
+            "Sci-fi": 108,
+            "Atmospheric": 96,
+            "Aliens": 92,
+            "Futuristic": 90,
+            "Resource Management": 79,
+            "Co-op": 72,
+            "Multiplayer": 68,
+            "Singleplayer": 56,
+            "Tactical RPG": 42
+        },
+        "positive": 851,
+        "negative": 361
+    },
+    "3340": {
+        "name": "AstroPop Deluxe",
+        "release_date": "Aug 30, 2006",
+        "price": 4.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Casual"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": {
+            "Casual": 38,
+            "Puzzle": 8
+        },
+        "positive": 58,
+        "negative": 17
+    },
+    "4240": {
+        "name": "RACE - The WTCC Game",
+        "release_date": "Nov 24, 2006",
+        "price": 39.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Racing"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player"
+        ],
+        "tags": {
+            "Racing": 54,
+            "Simulation": 17
+        },
+        "positive": 121,
+        "negative": 42
+    },
+    "3800": {
+        "name": "Advent Rising",
+        "release_date": "Sep 14, 2006",
+        "price": 9.99,
+        "metacritic_score": 70,
+        "genres": [
+            "Action"
+        ],
+        "categories": [
+            "Single-player",
+            "Steam Trading Cards"
+        ],
+        "tags": {
+            "Action": 71,
+            "Sci-fi": 33,
+            "Third-Person Shooter": 19,
+            "Singleplayer": 18,
+            "Story Rich": 17,
+            "Great Soundtrack": 13,
+            "Classic": 7,
+            "Third Person": 6
+        },
+        "positive": 357,
+        "negative": 98
+    },
+    "2900": {
+        "name": "688(I) Hunter/Killer",
+        "release_date": "Oct 26, 2006",
+        "price": 1.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Strategy"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player"
+        ],
+        "tags": {
+            "Strategy": 29,
+            "Naval Combat": 27,
+            "Simulation": 20,
+            "Naval": 16,
+            "Submarine": 14,
+            "Military": 5
+        },
+        "positive": 116,
+        "negative": 37
+    },
+    "2400": {
+        "name": "The Ship: Murder Party",
+        "release_date": "Jul 11, 2006",
+        "price": 9.99,
+        "metacritic_score": 76,
+        "genres": [
+            "Action",
+            "Indie",
+            "RPG"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player",
+            "PvP",
+            "Online PvP",
+            "LAN PvP",
+            "Steam Trading Cards",
+            "Valve Anti-Cheat enabled"
+        ],
+        "tags": {
+            "Multiplayer": 381,
+            "Indie": 174,
+            "First-Person": 152,
+            "Action": 150,
+            "Stealth": 138,
+            "RPG": 120,
+            "Mystery": 119,
+            "Assassin": 107,
+            "Funny": 81,
+            "Survival": 61,
+            "Simulation": 53,
+            "Singleplayer": 52,
+            "FPS": 51,
+            "Comedy": 51,
+            "Shooter": 44,
+            "Strategy": 43,
+            "Adventure": 41,
+            "Difficult": 31,
+            "Stylized": 28,
+            "Replay Value": 28
+        },
+        "positive": 5052,
+        "negative": 840
+    },
+    "3900": {
+        "name": "Sid Meier's Civilization® IV",
+        "release_date": "Oct 25, 2006",
+        "price": 19.99,
+        "metacritic_score": 94,
+        "genres": [
+            "Strategy"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player",
+            "Includes level editor"
+        ],
+        "tags": {
+            "Strategy": 291,
+            "Turn-Based Strategy": 206,
+            "Turn-Based": 173,
+            "4X": 147,
+            "Historical": 127,
+            "Multiplayer": 103,
+            "Singleplayer": 89,
+            "Moddable": 67,
+            "Grand Strategy": 58,
+            "Classic": 56,
+            "Addictive": 45,
+            "Replay Value": 40,
+            "Simulation": 38,
+            "Resource Management": 37,
+            "Great Soundtrack": 32,
+            "War": 29,
+            "Economy": 27,
+            "Tactical": 26,
+            "Management": 19,
+            "Local Multiplayer": 6
+        },
+        "positive": 2492,
+        "negative": 195
+    },
+    "3830": {
+        "name": "Psychonauts",
+        "release_date": "Oct 11, 2006",
+        "price": 9.99,
+        "metacritic_score": 87,
+        "genres": [
+            "Action"
+        ],
+        "categories": [
+            "Single-player",
+            "Steam Achievements",
+            "Steam Trading Cards",
+            "Partial Controller Support",
+            "Steam Cloud",
+            "Remote Play on Phone",
+            "Remote Play on Tablet"
+        ],
+        "tags": {
+            "Platformer": 657,
+            "Comedy": 577,
+            "Adventure": 503,
+            "Cult Classic": 471,
+            "Singleplayer": 428,
+            "Action": 382,
+            "Funny": 347,
+            "Third Person": 306,
+            "3D Platformer": 288,
+            "Classic": 261,
+            "Story Rich": 208,
+            "Psychological": 183,
+            "Great Soundtrack": 144,
+            "Surreal": 106,
+            "Cartoony": 102,
+            "Collectathon": 94,
+            "Exploration": 89,
+            "Action-Adventure": 63,
+            "3D": 52,
+            "3D Vision": 28
+        },
+        "positive": 13923,
+        "negative": 701
+    },
+    "12380": {
+        "name": "Jagged Alliance 2 Gold",
+        "release_date": "Jul 6, 2006",
+        "price": 19.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Strategy"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": [],
+        "positive": 0,
+        "negative": 0
+    },
+    "1200": {
+        "name": "Red Orchestra: Ostfront 41-45",
+        "release_date": "Mar 14, 2006",
+        "price": 4.99,
+        "metacritic_score": 81,
+        "genres": [
+            "Action"
+        ],
+        "categories": [
+            "Multi-player",
+            "Steam Achievements",
+            "Valve Anti-Cheat enabled"
+        ],
+        "tags": {
+            "World War II": 154,
+            "Action": 126,
+            "FPS": 120,
+            "Realistic": 95,
+            "Multiplayer": 85,
+            "Singleplayer": 81,
+            "Shooter": 72,
+            "War": 65,
+            "Tactical": 63,
+            "Military": 61,
+            "Simulation": 45,
+            "Historical": 43,
+            "Team-Based": 35,
+            "Classic": 29,
+            "Strategy": 23,
+            "Atmospheric": 20,
+            "First-Person": 11,
+            "Tanks": 9,
+            "Survival": 8
+        },
+        "positive": 1946,
+        "negative": 294
+    },
+    "1610": {
+        "name": "Space Empires IV Deluxe",
+        "release_date": "Feb 7, 2006",
+        "price": 9.99,
+        "metacritic_score": 79,
+        "genres": [
+            "Strategy"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player"
+        ],
+        "tags": {
+            "Strategy": 65,
+            "4X": 45,
+            "Sci-fi": 30,
+            "Space": 25,
+            "Turn-Based Strategy": 20,
+            "Turn-Based": 19,
+            "Singleplayer": 11
+        },
+        "positive": 183,
+        "negative": 35
+    },
+    "2810": {
+        "name": "X3: Reunion",
+        "release_date": "Jul 21, 2006",
+        "price": 9.99,
+        "metacritic_score": 71,
+        "genres": [
+            "Strategy"
+        ],
+        "categories": [
+            "Single-player",
+            "Captions available",
+            "Steam Cloud"
+        ],
+        "tags": {
+            "Space": 122,
+            "Simulation": 92,
+            "Strategy": 82,
+            "Space Sim": 70,
+            "Sci-fi": 69,
+            "Sandbox": 65,
+            "Economy": 63,
+            "Singleplayer": 57,
+            "Open World": 44,
+            "Flight": 40,
+            "Action": 33,
+            "Trading": 32,
+            "Exploration": 13,
+            "4X": 6
+        },
+        "positive": 406,
+        "negative": 161
+    },
+    "2420": {
+        "name": "The Ship: Single Player",
+        "release_date": "Nov 20, 2006",
+        "price": 0.0,
+        "metacritic_score": 0,
+        "genres": [
+            "Action",
+            "Indie",
+            "RPG"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": {
+            "Action": 338,
+            "Indie": 49,
+            "RPG": 39,
+            "Singleplayer": 34,
+            "FPS": 19,
+            "First-Person": 11,
+            "Stealth": 5,
+            "Multiplayer": 5
+        },
+        "positive": 634,
+        "negative": 268
+    },
+    "12370": {
+        "name": "Jagged Alliance 2 Gold",
+        "release_date": "Jul 6, 2006",
+        "price": 19.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Strategy"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": [],
+        "positive": 0,
+        "negative": 0
+    },
+    "3420": {
+        "name": "Iggle Pop Deluxe",
+        "release_date": "Aug 30, 2006",
+        "price": 4.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Casual"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": {
+            "Casual": 35
+        },
+        "positive": 34,
+        "negative": 6
+    },
+    "2640": {
+        "name": "Call of Duty: United Offensive",
+        "release_date": "Oct 13, 2006",
+        "price": 19.99,
+        "metacritic_score": 87,
+        "genres": [
+            "Action"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player"
+        ],
+        "tags": {
+            "Action": 88,
+            "World War II": 84,
+            "FPS": 74,
+            "Singleplayer": 58,
+            "Multiplayer": 57,
+            "Shooter": 49,
+            "Military": 44,
+            "Classic": 38,
+            "Historical": 37,
+            "War": 31,
+            "First-Person": 23,
+            "Atmospheric": 13
+        },
+        "positive": 1142,
+        "negative": 170
+    },
+    "201000": {
+        "name": "Geneforge 4: Rebellion",
+        "release_date": "Nov 1, 2006",
+        "price": 19.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Strategy",
+            "RPG",
+            "Indie"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": {
+            "RPG": 42,
+            "Indie": 33,
+            "Strategy": 23,
+            "Isometric": 13,
+            "Turn-Based Combat": 11,
+            "Turn-Based": 7
+        },
+        "positive": 35,
+        "negative": 3
+    },
+    "3350": {
+        "name": "Bejeweled Deluxe",
+        "release_date": "Aug 30, 2006",
+        "price": 4.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Casual"
+        ],
+        "categories": [
+            "Single-player",
+            "Remote Play on Phone",
+            "Remote Play on Tablet"
+        ],
+        "tags": {
+            "Casual": 44,
+            "Puzzle": 14,
+            "Match 3": 14,
+            "Singleplayer": 8
+        },
+        "positive": 131,
+        "negative": 18
+    },
+    "2520": {
+        "name": "Gumboy - Crazy Adventures™",
+        "release_date": "Dec 19, 2006",
+        "price": 4.99,
+        "metacritic_score": 69,
+        "genres": [
+            "Casual",
+            "Indie"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": {
+            "Casual": 36,
+            "Indie": 32,
+            "Physics": 28,
+            "Action": 26,
+            "Flight": 26,
+            "Platformer": 24,
+            "2D": 19,
+            "2D Platformer": 14,
+            "Singleplayer": 11
+        },
+        "positive": 61,
+        "negative": 58
+    },
+    "3360": {
+        "name": "Big Money! Deluxe",
+        "release_date": "Aug 30, 2006",
+        "price": 4.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Casual"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": {
+            "Casual": 37,
+            "Puzzle": 6,
+            "Match 3": 5,
+            "Arcade": 5
+        },
+        "positive": 80,
+        "negative": 8
+    },
+    "3310": {
+        "name": "Chuzzle Deluxe",
+        "release_date": "Aug 30, 2006",
+        "price": 4.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Casual"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": {
+            "Casual": 69,
+            "Puzzle": 35,
+            "Match 3": 24,
+            "Singleplayer": 14,
+            "Cute": 14,
+            "Funny": 7
+        },
+        "positive": 644,
+        "negative": 46
+    },
+    "3320": {
+        "name": "Insaniquarium Deluxe",
+        "release_date": "Aug 30, 2006",
+        "price": 4.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Casual"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": {
+            "Casual": 103,
+            "Classic": 47,
+            "Singleplayer": 47,
+            "Underwater": 45,
+            "Clicker": 41,
+            "Simulation": 35,
+            "Cute": 34,
+            "Aliens": 31,
+            "Family Friendly": 24,
+            "Strategy": 23,
+            "Colorful": 23,
+            "Psychological Horror": 22,
+            "Funny": 21,
+            "Action": 20,
+            "Point & Click": 18,
+            "Relaxing": 15,
+            "Addictive": 12,
+            "Difficult": 10,
+            "Great Soundtrack": 10,
+            "Atmospheric": 8
+        },
+        "positive": 3590,
+        "negative": 124
+    },
+    "2610": {
+        "name": "GUN™",
+        "release_date": "Oct 13, 2006",
+        "price": 19.99,
+        "metacritic_score": 76,
+        "genres": [
+            "Action"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": {
+            "Western": 133,
+            "Action": 88,
+            "Open World": 78,
+            "Third-Person Shooter": 57,
+            "Classic": 44,
+            "Adventure": 40,
+            "Singleplayer": 40,
+            "Shooter": 39,
+            "Atmospheric": 35,
+            "Third Person": 33,
+            "Story Rich": 29,
+            "Sandbox": 24,
+            "Gore": 19,
+            "Great Soundtrack": 17,
+            "Violent": 17,
+            "Cult Classic": 15,
+            "Bullet Time": 10,
+            "RPG": 8,
+            "Horses": 8,
+            "Controller": 6
+        },
+        "positive": 1265,
+        "negative": 129
+    },
+    "2920": {
+        "name": "Sub Command",
+        "release_date": "Oct 26, 2006",
+        "price": 5.99,
+        "metacritic_score": 84,
+        "genres": [
+            "Strategy"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player",
+            "Co-op",
+            "Includes level editor"
+        ],
+        "tags": {
+            "Strategy": 206,
+            "Simulation": 200,
+            "Naval Combat": 197,
+            "Submarine": 195,
+            "Naval": 189,
+            "Military": 180,
+            "Underwater": 177,
+            "Exploration": 174,
+            "Wargame": 171,
+            "Realistic": 165,
+            "Cold War": 155,
+            "Old School": 142,
+            "Retro": 129,
+            "War": 115,
+            "Physics": 101,
+            "Multiplayer": 87,
+            "Singleplayer": 71,
+            "Difficult": 55,
+            "Indie": 40,
+            "Real-Time": 28
+        },
+        "positive": 71,
+        "negative": 24
+    },
+    "3300": {
+        "name": "Bejeweled 2 Deluxe",
+        "release_date": "Aug 30, 2006",
+        "price": 4.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Casual"
+        ],
+        "categories": [
+            "Single-player",
+            "Remote Play on Phone",
+            "Remote Play on Tablet"
+        ],
+        "tags": {
+            "Casual": 53,
+            "Puzzle": 27,
+            "Match 3": 27,
+            "Great Soundtrack": 12,
+            "Singleplayer": 12
+        },
+        "positive": 385,
+        "negative": 20
+    },
+    "2800": {
+        "name": "X2: The Threat",
+        "release_date": "Jul 21, 2006",
+        "price": 4.99,
+        "metacritic_score": 72,
+        "genres": [
+            "Strategy"
+        ],
+        "categories": [
+            "Single-player",
+            "Captions available",
+            "Steam Cloud"
+        ],
+        "tags": {
+            "Space": 69,
+            "Strategy": 57,
+            "Simulation": 52,
+            "Sci-fi": 42,
+            "Singleplayer": 36,
+            "Open World": 34,
+            "Economy": 34,
+            "Space Sim": 34,
+            "Sandbox": 32,
+            "Trading": 29,
+            "Action": 26,
+            "Flight": 17,
+            "Exploration": 14
+        },
+        "positive": 326,
+        "negative": 66
+    },
+    "3820": {
+        "name": "BloodRayne 2 (Legacy)",
+        "release_date": "Sep 14, 2006",
+        "price": 0.0,
+        "metacritic_score": 67,
+        "genres": [
+            "Action"
+        ],
+        "categories": [
+            "Single-player",
+            "Steam Trading Cards"
+        ],
+        "tags": {
+            "Action": 73,
+            "Vampire": 44,
+            "Female Protagonist": 36,
+            "Gore": 28,
+            "Hack and Slash": 23,
+            "Third Person": 22,
+            "Horror": 16,
+            "Singleplayer": 16,
+            "Classic": 5
+        },
+        "positive": 316,
+        "negative": 122
+    },
+    "1300": {
+        "name": "SiN Episodes: Emergence",
+        "release_date": "May 10, 2006",
+        "price": 9.99,
+        "metacritic_score": 75,
+        "genres": [
+            "Action"
+        ],
+        "categories": [
+            "Single-player",
+            "Stats"
+        ],
+        "tags": {
+            "Action": 115,
+            "FPS": 71,
+            "Cyberpunk": 48,
+            "Sci-fi": 34,
+            "Classic": 30,
+            "Shooter": 30,
+            "Singleplayer": 22,
+            "First-Person": 19,
+            "Episodic": 16,
+            "Short": 12,
+            "Old School": 10,
+            "Futuristic": 8,
+            "Gore": 8,
+            "Great Soundtrack": 7,
+            "Adventure": 5
+        },
+        "positive": 769,
+        "negative": 93
+    },
+    "1690": {
+        "name": "Space Empires V",
+        "release_date": "Oct 16, 2006",
+        "price": 14.99,
+        "metacritic_score": 68,
+        "genres": [
+            "Strategy"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player"
+        ],
+        "tags": {
+            "Strategy": 52,
+            "4X": 32,
+            "Space": 25,
+            "Turn-Based": 21,
+            "Sci-fi": 21,
+            "Singleplayer": 13,
+            "Turn-Based Strategy": 11,
+            "Multiplayer": 7
+        },
+        "positive": 275,
+        "negative": 116
+    },
+    "4800": {
+        "name": "Heroes of Annihilated Empires",
+        "release_date": "Nov 22, 2006",
+        "price": 7.99,
+        "metacritic_score": 65,
+        "genres": [
+            "Strategy"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player"
+        ],
+        "tags": {
+            "Strategy": 56,
+            "RTS": 35,
+            "Fantasy": 24,
+            "RPG": 22,
+            "Multiplayer": 10,
+            "Singleplayer": 5
+        },
+        "positive": 474,
+        "negative": 81
+    },
+    "2130": {
+        "name": "Dark Messiah of Might & Magic",
+        "release_date": "Oct 25, 2006",
+        "price": 9.99,
+        "metacritic_score": 72,
+        "genres": [
+            "Action",
+            "RPG"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player",
+            "Valve Anti-Cheat enabled"
+        ],
+        "tags": {
+            "RPG": 446,
+            "First-Person": 388,
+            "Action": 365,
+            "Fantasy": 318,
+            "Adventure": 209,
+            "Dark Fantasy": 207,
+            "Swordplay": 202,
+            "Magic": 190,
+            "Classic": 155,
+            "Masterpiece": 124,
+            "Stealth": 123,
+            "Multiple Endings": 117,
+            "Singleplayer": 115,
+            "Story Rich": 98,
+            "Medieval": 93,
+            "Atmospheric": 85,
+            "Action RPG": 83,
+            "Gore": 70,
+            "Hack and Slash": 67,
+            "Multiplayer": 57
+        },
+        "positive": 4769,
+        "negative": 355
+    },
+    "380": {
+        "name": "Half-Life 2: Episode One",
+        "release_date": "Jun 1, 2006",
+        "price": 7.99,
+        "metacritic_score": 87,
+        "genres": [
+            "Action"
+        ],
+        "categories": [
+            "Single-player",
+            "Steam Achievements",
+            "Captions available",
+            "Partial Controller Support",
+            "Steam Cloud",
+            "Stats",
+            "Includes Source SDK",
+            "Commentary available",
+            "Remote Play Together"
+        ],
+        "tags": {
+            "FPS": 728,
+            "Action": 523,
+            "Sci-fi": 458,
+            "Singleplayer": 398,
+            "First-Person": 310,
+            "Story Rich": 309,
+            "Shooter": 297,
+            "Classic": 273,
+            "Dystopian ": 231,
+            "Adventure": 224,
+            "Aliens": 222,
+            "Zombies": 221,
+            "Episodic": 166,
+            "Atmospheric": 162,
+            "Silent Protagonist": 157,
+            "Great Soundtrack": 153,
+            "Short": 144,
+            "Puzzle": 115,
+            "Cinematic": 94,
+            "Moddable": 70
+        },
+        "positive": 20536,
+        "negative": 926
+    },
+    "360": {
+        "name": "Half-Life Deathmatch: Source",
+        "release_date": "May 1, 2006",
+        "price": 9.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Action"
+        ],
+        "categories": [
+            "Multi-player",
+            "Valve Anti-Cheat enabled"
+        ],
+        "tags": {
+            "Action": 242,
+            "FPS": 160,
+            "Multiplayer": 124,
+            "Shooter": 96,
+            "Sci-fi": 86,
+            "First-Person": 76,
+            "Classic": 71,
+            "Remake": 26,
+            "Adventure": 16,
+            "Competitive": 12,
+            "Horror": 11,
+            "Fast-Paced": 11,
+            "Atmospheric": 9,
+            "Singleplayer": 7
+        },
+        "positive": 2444,
+        "negative": 815
+    },
+    "1510": {
+        "name": "Uplink",
+        "release_date": "Aug 23, 2006",
+        "price": 9.99,
+        "metacritic_score": 75,
+        "genres": [
+            "Indie",
+            "Strategy"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": {
+            "Hacking": 221,
+            "Indie": 158,
+            "Strategy": 146,
+            "Singleplayer": 117,
+            "Cyberpunk": 108,
+            "Simulation": 62,
+            "Great Soundtrack": 59,
+            "Classic": 55,
+            "Sci-fi": 48,
+            "Real-Time with Pause": 41,
+            "2D": 40,
+            "Experimental": 32,
+            "Atmospheric": 30,
+            "Story Rich": 27,
+            "Addictive": 22,
+            "Perma Death": 9,
+            "Rogue-like": 9,
+            "Puzzle": 8,
+            "Programming": 6,
+            "Text-Based": 6
+        },
+        "positive": 1956,
+        "negative": 188
+    },
+    "2100": {
+        "name": "Dark Messiah of Might & Magic",
+        "release_date": "Oct 25, 2006",
+        "price": 9.99,
+        "metacritic_score": 72,
+        "genres": [
+            "Action",
+            "RPG"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player",
+            "Valve Anti-Cheat enabled"
+        ],
+        "tags": {
+            "RPG": 489,
+            "First-Person": 425,
+            "Action": 398,
+            "Fantasy": 344,
+            "Swordplay": 229,
+            "Dark Fantasy": 229,
+            "Adventure": 224,
+            "Magic": 211,
+            "Classic": 169,
+            "Singleplayer": 143,
+            "Stealth": 137,
+            "Multiple Endings": 134,
+            "Story Rich": 109,
+            "Medieval": 106,
+            "Action RPG": 103,
+            "Atmospheric": 96,
+            "Gore": 84,
+            "Hack and Slash": 82,
+            "Multiplayer": 65,
+            "Immersive Sim": 63
+        },
+        "positive": 7630,
+        "negative": 685
+    },
+    "3910": {
+        "name": "Sid Meier's Civilization® III Complete",
+        "release_date": "Oct 25, 2006",
+        "price": 4.99,
+        "metacritic_score": 90,
+        "genres": [
+            "Strategy"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player",
+            "Includes level editor"
+        ],
+        "tags": {
+            "Strategy": 305,
+            "Turn-Based Strategy": 210,
+            "Turn-Based": 134,
+            "Classic": 133,
+            "4X": 119,
+            "Historical": 115,
+            "Singleplayer": 91,
+            "Replay Value": 71,
+            "Multiplayer": 71,
+            "Simulation": 58,
+            "Military": 56,
+            "Grand Strategy": 54,
+            "Exploration": 53,
+            "Addictive": 43,
+            "City Builder": 30,
+            "Old School": 22,
+            "War": 16,
+            "Isometric": 10,
+            "Alternate History": 7,
+            "Diplomacy": 7
+        },
+        "positive": 5061,
+        "negative": 619
+    },
+    "1640": {
+        "name": "Disciples II: Gallean's Return",
+        "release_date": "Jul 6, 2006",
+        "price": 1.39,
+        "metacritic_score": 84,
+        "genres": [
+            "Strategy"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player",
+            "Co-op"
+        ],
+        "tags": {
+            "Turn-Based Strategy": 87,
+            "Strategy": 80,
+            "Classic": 49,
+            "Atmospheric": 40,
+            "Dark Fantasy": 39,
+            "Nostalgia": 35,
+            "Turn-Based": 32,
+            "Fantasy": 32,
+            "RPG": 23,
+            "Tactical": 21,
+            "Gothic": 21,
+            "Multiplayer": 14,
+            "Great Soundtrack": 13,
+            "Isometric": 9,
+            "Singleplayer": 6
+        },
+        "positive": 926,
+        "negative": 217
+    },
+    "228200": {
+        "name": "Company of Heroes",
+        "release_date": "Sep 11, 2006",
+        "price": 19.99,
+        "metacritic_score": 93,
+        "genres": [
+            "Action",
+            "Strategy"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player",
+            "Steam Trading Cards",
+            "Steam Workshop",
+            "Steam Cloud"
+        ],
+        "tags": {
+            "Strategy": 245,
+            "World War II": 223,
+            "RTS": 191,
+            "War": 115,
+            "Action": 104,
+            "Multiplayer": 102,
+            "Singleplayer": 95,
+            "Tactical": 56,
+            "Violent": 52,
+            "Military": 51,
+            "Historical": 39,
+            "Base-Building": 32,
+            "Classic": 29,
+            "Co-op": 29,
+            "Real Time Tactics": 18,
+            "Mod": 16,
+            "Moddable": 14,
+            "Story Rich": 9,
+            "Mature": 8,
+            "Great Soundtrack": 7
+        },
+        "positive": 11836,
+        "negative": 714
+    },
+    "3450": {
+        "name": "Typer Shark! Deluxe",
+        "release_date": "Aug 30, 2006",
+        "price": 4.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Casual"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": {
+            "Casual": 39,
+            "Typing": 21,
+            "Education": 11
+        },
+        "positive": 213,
+        "negative": 44
+    },
+    "3960": {
+        "name": "Shattered Union",
+        "release_date": "Oct 25, 2006",
+        "price": 4.99,
+        "metacritic_score": 67,
+        "genres": [
+            "Strategy"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player"
+        ],
+        "tags": {
+            "Strategy": 30,
+            "Turn-Based Strategy": 10
+        },
+        "positive": 68,
+        "negative": 65
+    },
+    "3460": {
+        "name": "Talismania Deluxe",
+        "release_date": "Aug 30, 2006",
+        "price": 4.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Casual"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": {
+            "Casual": 33,
+            "Puzzle": 8
+        },
+        "positive": 48,
+        "negative": 3
+    },
+    "3810": {
+        "name": "BloodRayne (Legacy)",
+        "release_date": "Sep 14, 2006",
+        "price": 0.0,
+        "metacritic_score": 65,
+        "genres": [
+            "Action"
+        ],
+        "categories": [
+            "Single-player",
+            "Steam Trading Cards"
+        ],
+        "tags": {
+            "Action": 78,
+            "Vampire": 46,
+            "Female Protagonist": 35,
+            "Third Person": 28,
+            "Singleplayer": 22,
+            "Hack and Slash": 20,
+            "Gore": 18,
+            "Horror": 17,
+            "Supernatural": 8,
+            "World War II": 7,
+            "Dark": 7,
+            "Third-Person Shooter": 6,
+            "Mature": 5,
+            "Cult Classic": 5
+        },
+        "positive": 467,
+        "negative": 126
+    },
+    "6210": {
+        "name": "Vegas: Make It Big™",
+        "release_date": "Dec 21, 2006",
+        "price": 4.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Strategy"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": {
+            "Strategy": 24,
+            "Simulation": 15,
+            "Management": 15
+        },
+        "positive": 107,
+        "negative": 37
+    },
+    "3390": {
+        "name": "Feeding Frenzy 2 Deluxe",
+        "release_date": "Aug 30, 2006",
+        "price": 4.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Casual"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": {
+            "Casual": 64,
+            "Arcade": 15,
+            "Singleplayer": 15,
+            "Underwater": 7,
+            "Family Friendly": 5
+        },
+        "positive": 1238,
+        "negative": 39
+    },
+    "4700": {
+        "name": "Total War: MEDIEVAL II – Definitive Edition",
+        "release_date": "Nov 15, 2006",
+        "price": 24.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Strategy"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player",
+            "Steam Trading Cards"
+        ],
+        "tags": {
+            "Strategy": 632,
+            "Medieval": 469,
+            "Historical": 357,
+            "Turn-Based Strategy": 313,
+            "Grand Strategy": 295,
+            "War": 264,
+            "RTS": 251,
+            "Tactical": 218,
+            "Singleplayer": 189,
+            "Multiplayer": 186,
+            "Moddable": 148,
+            "Military": 148,
+            "Turn-Based": 138,
+            "Real Time Tactics": 129,
+            "Classic": 116,
+            "Simulation": 99,
+            "Action": 76,
+            "Sandbox": 68,
+            "Great Soundtrack": 61,
+            "4X": 35
+        },
+        "positive": 24395,
+        "negative": 1057
+    },
+    "2500": {
+        "name": "Shadowgrounds",
+        "release_date": "May 8, 2006",
+        "price": 6.99,
+        "metacritic_score": 74,
+        "genres": [
+            "Action"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player",
+            "Shared/Split Screen",
+            "Steam Trading Cards",
+            "Remote Play Together"
+        ],
+        "tags": {
+            "Top-Down Shooter": 169,
+            "Sci-fi": 163,
+            "Aliens": 160,
+            "Action": 156,
+            "Shooter": 128,
+            "Singleplayer": 122,
+            "Horror": 118,
+            "Top-Down": 118,
+            "Isometric": 113,
+            "Adventure": 108,
+            "Twin Stick Shooter": 101,
+            "Gore": 97,
+            "Indie": 93,
+            "Shoot 'Em Up": 90,
+            "Dark": 88,
+            "PvE": 83,
+            "Combat": 75,
+            "Local Co-Op": 73,
+            "Co-op": 64,
+            "Multiplayer": 40
+        },
+        "positive": 1161,
+        "negative": 282
+    },
+    "1630": {
+        "name": "Disciples II: Rise of the Elves",
+        "release_date": "Jul 6, 2006",
+        "price": 6.99,
+        "metacritic_score": 80,
+        "genres": [
+            "Strategy"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player",
+            "Co-op"
+        ],
+        "tags": {
+            "Strategy": 64,
+            "Turn-Based Strategy": 52,
+            "Classic": 31,
+            "Turn-Based": 30,
+            "Fantasy": 30,
+            "Dark Fantasy": 19,
+            "Atmospheric": 17,
+            "RPG": 15,
+            "Great Soundtrack": 13,
+            "Nostalgia": 6
+        },
+        "positive": 884,
+        "negative": 149
+    },
+    "2910": {
+        "name": "Fleet Command",
+        "release_date": "Oct 26, 2006",
+        "price": 5.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Strategy"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": {
+            "Wargame": 78,
+            "RTS": 65,
+            "Naval Combat": 52,
+            "Strategy": 47,
+            "Military": 32,
+            "Naval": 26,
+            "Flight": 26,
+            "War": 25,
+            "3D": 25,
+            "Submarine": 25,
+            "Real-Time": 23,
+            "Underwater": 18,
+            "Simulation": 12
+        },
+        "positive": 280,
+        "negative": 49
+    },
+    "2620": {
+        "name": "Call of Duty®",
+        "release_date": "Oct 13, 2006",
+        "price": 19.99,
+        "metacritic_score": 91,
+        "genres": [
+            "Action"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player"
+        ],
+        "tags": {
+            "FPS": 215,
+            "World War II": 199,
+            "Action": 177,
+            "Classic": 155,
+            "Shooter": 123,
+            "Multiplayer": 119,
+            "Singleplayer": 116,
+            "War": 107,
+            "Military": 86,
+            "First-Person": 85,
+            "Historical": 79,
+            "Atmospheric": 58,
+            "Linear": 51,
+            "America": 45,
+            "Story Rich": 34,
+            "Co-op": 17,
+            "Realistic": 15,
+            "Old School": 13,
+            "Difficult": 12,
+            "Nostalgia": 10
+        },
+        "positive": 3842,
+        "negative": 216
+    },
+    "1620": {
+        "name": "Jagged Alliance 2 Gold",
+        "release_date": "Jul 6, 2006",
+        "price": 19.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Strategy"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": [],
+        "positive": 0,
+        "negative": 0
+    },
+    "3380": {
+        "name": "Dynomite Deluxe",
+        "release_date": "Aug 30, 2006",
+        "price": 4.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Casual"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": {
+            "Casual": 38,
+            "Puzzle": 8,
+            "Dinosaurs": 6
+        },
+        "positive": 174,
+        "negative": 10
+    },
+    "1520": {
+        "name": "DEFCON",
+        "release_date": "Sep 29, 2006",
+        "price": 9.99,
+        "metacritic_score": 84,
+        "genres": [
+            "Indie",
+            "Strategy"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player"
+        ],
+        "tags": {
+            "Strategy": 273,
+            "Indie": 168,
+            "Wargame": 129,
+            "Cold War": 117,
+            "Multiplayer": 111,
+            "Psychological Horror": 84,
+            "Simulation": 62,
+            "Real-Time with Pause": 59,
+            "Atmospheric": 59,
+            "RTS": 58,
+            "War": 56,
+            "2D": 40,
+            "Diplomacy": 40,
+            "Tactical": 38,
+            "Great Soundtrack": 31,
+            "Singleplayer": 31,
+            "Horror": 25,
+            "Dark": 22,
+            "Addictive": 17,
+            "Military": 15
+        },
+        "positive": 3032,
+        "negative": 461
+    },
+    "1670": {
+        "name": "Iron Warriors: T - 72 Tank Command",
+        "release_date": "Jul 26, 2006",
+        "price": 0.99,
+        "metacritic_score": 56,
+        "genres": [
+            "Strategy"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player"
+        ],
+        "tags": {
+            "Simulation": 36,
+            "Strategy": 33,
+            "Tanks": 23,
+            "Military": 10,
+            "Singleplayer": 5
+        },
+        "positive": 168,
+        "negative": 105
+    },
+    "2630": {
+        "name": "Call of Duty® 2",
+        "release_date": "Oct 13, 2006",
+        "price": 19.99,
+        "metacritic_score": 86,
+        "genres": [
+            "Action"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player"
+        ],
+        "tags": {
+            "Action": 217,
+            "World War II": 211,
+            "FPS": 199,
+            "Multiplayer": 165,
+            "Singleplayer": 161,
+            "Shooter": 134,
+            "War": 123,
+            "Classic": 120,
+            "First-Person": 104,
+            "Historical": 92,
+            "Military": 57,
+            "Atmospheric": 56,
+            "Story Rich": 25,
+            "Co-op": 22,
+            "Adventure": 19,
+            "Controller": 18,
+            "Casual": 13,
+            "Zombies": 12,
+            "Online Co-Op": 10,
+            "Simulation": 8
+        },
+        "positive": 6350,
+        "negative": 449
+    },
+    "34440": {
+        "name": "Sid Meier's Civilization® IV",
+        "release_date": "Oct 25, 2006",
+        "price": 19.99,
+        "metacritic_score": 94,
+        "genres": [
+            "Strategy"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player",
+            "Includes level editor"
+        ],
+        "tags": {
+            "Strategy": 279,
+            "Turn-Based Strategy": 193,
+            "Turn-Based": 165,
+            "4X": 137,
+            "Historical": 119,
+            "Multiplayer": 92,
+            "Singleplayer": 79,
+            "Moddable": 58,
+            "Classic": 50,
+            "Grand Strategy": 50,
+            "Addictive": 45,
+            "Masterpiece": 40,
+            "Replay Value": 38,
+            "Simulation": 37,
+            "Resource Management": 33,
+            "Great Soundtrack": 30,
+            "Economy": 24,
+            "War": 23,
+            "Tactical": 22,
+            "Management": 14
+        },
+        "positive": 1473,
+        "negative": 145
+    },
+    "4230": {
+        "name": "RACE - The WTCC Game",
+        "release_date": "Nov 24, 2006",
+        "price": 39.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Racing"
+        ],
+        "categories": [
+            "Single-player",
+            "Multi-player"
+        ],
+        "tags": {
+            "Racing": 55,
+            "Automobile Sim": 50,
+            "Driving": 29,
+            "Simulation": 18
+        },
+        "positive": 136,
+        "negative": 51
+    },
+    "4100": {
+        "name": "Poker Superstars II",
+        "release_date": "Oct 5, 2006",
+        "price": 9.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Casual",
+            "Strategy",
+            "Indie"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": {
+            "Strategy": 20,
+            "Indie": 20,
+            "Casual": 20,
+            "Card Game": 7,
+            "Gambling": 6
+        },
+        "positive": 6,
+        "negative": 7
+    },
+    "3410": {
+        "name": "Heavy Weapon Deluxe",
+        "release_date": "Aug 30, 2006",
+        "price": 4.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Casual"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": {
+            "Casual": 35,
+            "Arcade": 13,
+            "Action": 8,
+            "Bullet Hell": 6,
+            "Shoot 'Em Up": 5
+        },
+        "positive": 189,
+        "negative": 45
+    },
+    "2990": {
+        "name": "FlatOut 2™",
+        "release_date": "Dec 21, 2006",
+        "price": 7.99,
+        "metacritic_score": 76,
+        "genres": [
+            "Racing"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": {
+            "Racing": 374,
+            "Combat Racing": 369,
+            "Automobile Sim": 212,
+            "Destruction": 208,
+            "Multiplayer": 191,
+            "Vehicular Combat": 166,
+            "Great Soundtrack": 153,
+            "Classic": 141,
+            "Action": 99,
+            "Singleplayer": 91,
+            "Music": 71,
+            "Driving": 64,
+            "Arcade": 56,
+            "Physics": 53,
+            "Simulation": 41,
+            "Local Multiplayer": 38,
+            "Atmospheric": 30,
+            "Funny": 26,
+            "Comedy": 25,
+            "Casual": 24
+        },
+        "positive": 11989,
+        "negative": 522
+    },
+    "2525": {
+        "name": "Gumboy - Crazy Adventures™",
+        "release_date": "Dec 19, 2006",
+        "price": 4.99,
+        "metacritic_score": 69,
+        "genres": [
+            "Casual",
+            "Indie"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": {
+            "Casual": 36,
+            "Indie": 32,
+            "Singleplayer": 11,
+            "Platformer": 5
+        },
+        "positive": 54,
+        "negative": 49
+    },
+    "3430": {
+        "name": "Pizza Frenzy Deluxe",
+        "release_date": "Aug 30, 2006",
+        "price": 4.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Casual"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": {
+            "Casual": 45
+        },
+        "positive": 125,
+        "negative": 5
+    },
+    "4900": {
+        "name": "Zen of Sudoku",
+        "release_date": "Dec 14, 2006",
+        "price": 0.0,
+        "metacritic_score": 0,
+        "genres": [
+            "Casual",
+            "Indie"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": {
+            "Casual": 32,
+            "Indie": 26,
+            "Puzzle": 16,
+            "Free to Play": 8
+        },
+        "positive": 210,
+        "negative": 28
+    },
+    "4300": {
+        "name": "RoboBlitz",
+        "release_date": "Nov 7, 2006",
+        "price": 9.99,
+        "metacritic_score": 80,
+        "genres": [
+            "Action",
+            "Indie"
+        ],
+        "categories": [
+            "Single-player",
+            "Partial Controller Support",
+            "Includes level editor"
+        ],
+        "tags": {
+            "Indie": 29,
+            "Action": 28,
+            "Puzzle": 11,
+            "Robots": 8,
+            "Physics": 7
+        },
+        "positive": 55,
+        "negative": 19
+    },
+    "3400": {
+        "name": "Hammer Heads Deluxe",
+        "release_date": "Aug 30, 2006",
+        "price": 0.0,
+        "metacritic_score": 0,
+        "genres": [
+            "Casual"
+        ],
+        "categories": [
+            "Single-player"
+        ],
+        "tags": {
+            "Casual": 61
+        },
+        "positive": 49,
+        "negative": 6
+    }
+}

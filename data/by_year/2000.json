@@ -1,0 +1,81 @@
+{
+    "60": {
+        "name": "Ricochet",
+        "release_date": "Nov 1, 2000",
+        "price": 4.99,
+        "metacritic_score": 0,
+        "genres": [
+            "Action"
+        ],
+        "categories": [
+            "Multi-player",
+            "PvP",
+            "Online PvP",
+            "Valve Anti-Cheat enabled"
+        ],
+        "tags": {
+            "Action": 585,
+            "FPS": 129,
+            "Multiplayer": 105,
+            "Classic": 89,
+            "First-Person": 78,
+            "Sci-fi": 54,
+            "Shooter": 52,
+            "Space": 42,
+            "Cyberpunk": 38,
+            "Memes": 30,
+            "Platformer": 27,
+            "Psychological Horror": 26,
+            "Conspiracy": 26,
+            "3D": 24,
+            "Old School": 23,
+            "Retro": 23,
+            "Competitive": 17,
+            "Cult Classic": 17,
+            "Sports": 11,
+            "Great Soundtrack": 9
+        },
+        "positive": 3804,
+        "negative": 848
+    },
+    "10": {
+        "name": "Counter-Strike",
+        "release_date": "Nov 1, 2000",
+        "price": 9.99,
+        "metacritic_score": 88,
+        "genres": [
+            "Action"
+        ],
+        "categories": [
+            "Multi-player",
+            "PvP",
+            "Online PvP",
+            "Shared/Split Screen PvP",
+            "Valve Anti-Cheat enabled"
+        ],
+        "tags": {
+            "Action": 5422,
+            "FPS": 4826,
+            "Multiplayer": 3386,
+            "Shooter": 3345,
+            "Classic": 2778,
+            "Team-Based": 1860,
+            "First-Person": 1705,
+            "Competitive": 1603,
+            "Tactical": 1339,
+            "e-sports": 1189,
+            "1990's": 1189,
+            "PvP": 876,
+            "Old School": 767,
+            "Military": 631,
+            "Strategy": 613,
+            "Survival": 304,
+            "Score Attack": 289,
+            "1980s": 267,
+            "Assassin": 228,
+            "Nostalgia": 123
+        },
+        "positive": 198387,
+        "negative": 5135
+    }
+}
