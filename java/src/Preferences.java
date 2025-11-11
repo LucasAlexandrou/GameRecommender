@@ -2,7 +2,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Preferences {
-    private List<Integer> year;
     private double price;
     private int metaScore;
     private int userScore;
@@ -10,8 +9,7 @@ public class Preferences {
     private List<String> categories;
     private List<String> tags;
 
-    public Preferences(List<Integer> year, double price, int metaScore, int userScore,  List<String> genres, List<String> categories, List<String> tags) {
-        this.year = new ArrayList<>();
+    public Preferences(double price, int metaScore, int userScore,  List<String> genres, List<String> categories, List<String> tags) {
         this.price = price;
         this.metaScore = metaScore;
         this.userScore = userScore;
@@ -20,9 +18,6 @@ public class Preferences {
         this.tags = new ArrayList<>();
     }
 
-    public List<Integer> getYear() {
-        return year;
-    }
     public double getPrice() {
         return price;
     }
