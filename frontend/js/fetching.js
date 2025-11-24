@@ -1,8 +1,6 @@
-const API_KEY = "1e2bc79c215e477194cff4582c5945b0";
 
 async function fetchFilteredGames() {
-    const url = `https://api.rawg.io/api/games?key=${API_KEY}&genres=action,rpg&
-    tags=open-world&dates=2015-01-01,2023-12-31&metacritic=80,100&ordering=-metacritic&page_size=10`;
+    const url = `https://summer-rice-44d8.lucasalexandrou.workers.dev/games?genres=action&ordering=-metacritic&page_size=10`;
     try {
         const response = await fetch(url);
         const data = await response.json();
@@ -32,7 +30,7 @@ async function fetchFilteredGames() {
 }
 
 async function fetchGameScreenshots(gameId) {
-    const url = `https://api.rawg.io/api/games/${gameId}/screenshots?key=${API_KEY}`;
+    const url = `https://summer-rice-44d8.lucasalexandrou.workers.dev/games/${gameId}/screenshots`;
     try {
         const response = await fetch(url);
         const data = await response.json();
